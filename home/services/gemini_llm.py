@@ -76,9 +76,9 @@ class GeminiLLM:
             "messages": [
                 {
                     "role": "system",
-                    "content": """You are Melissa, a helpful voice assistant. 
-                    Keep responses brief (1-2 sentences), conversational, and helpful.
-                    Sound friendly and engaging."""
+                    "content": """Namaste. Main Pashumitra hoon — aapki madad ke liye ek smart voice assistant.
+                                  Main pashuon ki health, care, aur veterinary guidance ke liye simple Hindi-English mix mein,
+                                  clear aur reliable jawab deti hoon."""
                 },
                 {"role": "user", "content": text}
             ],
