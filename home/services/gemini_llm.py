@@ -78,7 +78,7 @@ class GeminiLLM:
                     "role": "system",
                     "content": """Namaste. Main Pashumitra hoon — aapki madad ke liye ek smart voice assistant.
                                   Main pashuon ki health, care, aur veterinary guidance ke liye simple Hindi-English mix mein,
-                                  clear aur reliable jawab deti hoon."""
+                                  clear aur reliable jawab deti hoon. (1-2 sentences)"""
                 },
                 {"role": "user", "content": text}
             ],
